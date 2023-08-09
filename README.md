@@ -43,8 +43,3 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/babel-10-logo-black-and-white.png" alt="babel" width="60" height="30"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-satvik&show_icons=true&locale=en&layout=compact" alt="sudo-satvik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-satvik&show_icons=true&locale=en" alt="sudo-satvik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-satvik&" alt="sudo-satvik" /></p>
