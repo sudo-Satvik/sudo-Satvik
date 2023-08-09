@@ -1,4 +1,4 @@
-![logo](https://github.com/sudo-Satvik/sudo-Satvik/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo]('https://drive.google.com/file/d/1ONf6QCh98IgzBsEUivWAUai5tXp7GdIN/view?usp=sharing')
 <h1 align="center">Hi 🙋‍♂️, I'm Satvik Sharma</h1>
 <h3 align="center">UI/UX and Front-end Web Developer</h3>
 <p align="left"> <a href="https://twitter.com/tw_satan_" target="blank"><img src="https://img.shields.io/twitter/follow/tw_satan_?logo=twitter&style=for-the-badge" alt="tw_satan_" /></a> </p>
