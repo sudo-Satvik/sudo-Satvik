@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/D4D16AQGka1b3CmKzxA/profile-displaybackgroundimage-shrink_350_1400/0/1691559254329?e=1697068800&v=beta&t=SLpnzdO5ZVjmOZ3bmSQtpU73MbuaPx1n4MnIaeiwZn4);
 <h1 align="center">Hi 🙋‍♂️, I'm Satvik Sharma</h1>
 <h3 align="center">UI/UX and Front-end Web Developer</h3>
 <p align="left"> <a href="https://twitter.com/tw_satan_" target="blank"><img src="https://img.shields.io/twitter/follow/tw_satan_?logo=twitter&style=for-the-badge" alt="tw_satan_" /></a> </p>
