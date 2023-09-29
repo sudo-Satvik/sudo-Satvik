@@ -1,3 +1,4 @@
+[![An image of @sharmasatvik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharmasatvik)](https://holopin.io/@sharmasatvik)
 <h1 align="center">Hi 🙋‍♂️, I'm Satvik Sharma</h1>
 <h3 align="center">UI/UX and Front-end Web Developer</h3>
 <p align="left"> <a href="https://twitter.com/tw_satan_" target="blank"><img src="https://img.shields.io/twitter/follow/tw_satan_?logo=twitter&style=for-the-badge" alt="tw_satan_" /></a> </p>
@@ -27,9 +28,8 @@
 <a href="https://www.hackerrank.com/sharmasatvik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="sharmasatvik" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/sudo-satvik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="sudo-satvik" height="40" width="40" /></a>
 </p>
-<h1>You can see my holopins too</h1>
 
-[![An image of @sharmasatvik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharmasatvik)](https://holopin.io/@sharmasatvik)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
