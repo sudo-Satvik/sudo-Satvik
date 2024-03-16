@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satvik-sharma" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="satvik-sharma" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sudo-satvik-sharma/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="satvik-sharma" height="50" width="50" /></a>
 <a href="https://instagram.com/fl.o_satvik" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png" alt="fl.o_satvik" height="60" width="60" /></a>
 <a href="https://twitter.com/tw_satan_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="tw_satan_" height="30" width="40" /></a>
 <a href="https://codepen.io/satvik-sharma" target="blank"><img align="center" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt="satvik-sharma" height="40" width="40" /></a>
