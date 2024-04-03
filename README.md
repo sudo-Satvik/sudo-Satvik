@@ -6,15 +6,15 @@
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="370" alt="coding" align="right">
 
 
-- 🔭 I’m currently working on **Full Stack Web App**
+- 🔭 I’m currently working on **Graphics Designing, UI/UX Design and Full Stack Web Development**
 
-- 🌱 I’m currently learning **MERN Stack & Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://sudo-satvik.github.io/Satvik-Sharma/](https://sudo-satvik.github.io/Satvik-Sharma/)
 
 - 📝 I regularly write articles on [sharmasatvik.blogspot.com](sharmasatvik.blogspot.com)
 
-- 💬 Ask me about **UI/UX Ideas, JavaScript Problems**
+- 💬 Ask me about **UI/UX Ideas, Java and JavaScript Problems**
 
 - 📫 How to reach me **sharmasatvik43@gmail.com**
 
