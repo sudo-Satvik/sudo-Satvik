@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sudo-satvik.github.io/Satvik-Sharma/](https://sudo-satvik.github.io/Satvik-Sharma/)
 
-- 📝 I regularly write articles on [sharmasatvik.blogspot.com](sharmasatvik.blogspot.com)
-
 - 💬 Ask me about **UI/UX Ideas, Java and JavaScript Problems**
 
 - 📫 How to reach me **sharmasatvik43@gmail.com**
