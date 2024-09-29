@@ -8,7 +8,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/satviksharma7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik-sharma-86916b329) [![Twitter(X)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tw_satan_) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/satvik-sharma) 
 
 
-# 💻 Tech Stack:
+# 💻 Tools and Technologies:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
