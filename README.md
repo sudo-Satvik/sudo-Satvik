@@ -1,7 +1,8 @@
 [![An image of @sharmasatvik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharmasatvik)](https://holopin.io/@sharmasatvik)
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development, Cloud Computing, DevOps and AI/ML<br><br>🌱 I'm mainly focusing on learning MERN Stack, Cloud Computing, Docker, Kubernetes, Generative AI<br><br>👨‍💻 All of my projects are available at https://sudo-satvik.github.io/Satvik-Sharma/<br><br>💬 Ask me about UI/UX Ideas, Frontend, Java and JavaScript Problems<br><br>📫 How to reach me sharmasatvik43@gmail.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00FF0A&width=435&lines=I%E2%80%99m+currently+working+on+Full+Stack+Development%2C+Cloud+Computing%2C+DevOps+and+AI%2FML;I'm+mainly+focusing+on+learning+MERN+Stack%2C+Cloud+Computing%2C+Docker%2C+Kubernetes%2C+Generative+AI)](https://git.io/typing-svg)
+All of my projects are available at https://sudo-satvik.github.io/Satvik-Sharma/<br><br>💬 Ask me about UI/UX Ideas, Frontend, Java and JavaScript Problems<br><br>📫 How to reach me sharmasatvik43@gmail.com
 
 
 ## 🌐 Socials:
