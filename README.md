@@ -1,7 +1,7 @@
 ![Header Image](cover.png)
 
 
-<h1 align="center">Su-swagatam 🙏 in my GitHub Universe 🚀</h1>
+<h1 align="center">Su'swagatam 🙏 in my GitHub Universe 🚀</h1>
 
 ###
 
