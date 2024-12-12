@@ -1,4 +1,4 @@
-![Header Image](cover.png)
+![Header Image!](cover.png)
 
 
 <h1 align="center">Su'swagatam 🙏 in my GitHub Universe 🚀</h1>
