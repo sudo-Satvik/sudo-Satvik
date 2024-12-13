@@ -115,7 +115,7 @@
 
 ###
 
-<h4 align="left">Cloud Platforms and Hosting</h4>
+<h4 align="left">Cloud Computing and Hosting</h4>
 
 ###
 
