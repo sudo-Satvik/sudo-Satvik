@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="left">Hello, World! I'm SATVIK SHARMA  👩‍💻<br>A passionate Software Engineer, Web Developer, Designer who transforms ideas into beautiful solutions with a touch of creativity and logic.</h4>
+<h4 align="left">Hello World! I'm SATVIK SHARMA  👩‍💻<br>A passionate Software Engineer, Web Developer, Designer who transforms ideas into beautiful solutions with a touch of creativity and logic.</h4>
 
 <h4 align="left">My journey into the tech world started in 9th grade when I first discovered how software and games are created. That moment sparked a passion in me, and I knew I wanted to pursue this field and achieve something remarkable! 💻✨</h4>
 
