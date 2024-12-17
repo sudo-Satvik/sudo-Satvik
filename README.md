@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🎓 BCA Graduate from University of Lucknow<br><br>‎‍💼 Checkout my works @ <br><br>🏆 Smart India Hackathon 2022 @ Finalist<br><br>💼 Former Executive @ Cogniferentials Consultancy Private Limited<br><br>🏆 Top 9.58% Coder @ Naukri Code 360<br><br>🎯 Aspiring to create intuitive experiences and scalable systems<br><br>📧 Contact me @ sharmasatvik43@gmail.com</p>
+<p align="left">🎓 BCA Graduate from University of Lucknow<br><br>‎‍💼 Checkout my works @ <a href="https://www.satvik-sharma.vercel.app">satvik-sharma.vercel.app</a><br><br>🏆 Smart India Hackathon 2022 @ Finalist<br><br>💼 Former Executive @ Cogniferentials Consultancy Private Limited<br><br>🏆 Top 9.58% Coder @ Naukri Code 360<br><br>🎯 Aspiring to create intuitive experiences and scalable systems<br><br>📧 Contact me @ <a href="mailto:sharmasatvik43@gmail.com">sharmasatvik43@gmail.com</a></p>
 
 ###
 
