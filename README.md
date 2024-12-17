@@ -1,13 +1,12 @@
-![Header Image!](cover.png)
-
-
-<h1 align="center">Su'swagatam 🙏 in my GitHub Universe 🚀</h1>
+<h1 align="center">Su-swagatam 🙏 in my GitHub Universe 🚀</h1>
 
 ###
 
-<h4 align="left">Hello World! I'm SATVIK SHARMA  👩‍💻<br>A passionate Software Engineer, Web Developer, Designer who transforms ideas into beautiful solutions with a touch of creativity and logic.</h4>
+<h3 align="left">Hello, World! I'm SATVIK SHARMA  👩‍💻<br>A passionate Software Engineer, Web Developer, Designer who transforms ideas into beautiful solutions with a touch of creativity and logic.</h3>
 
-<h4 align="left">My journey into the tech world started in 9th grade when I first discovered how software and games are created. That moment sparked a passion in me, and I knew I wanted to pursue this field and achieve something remarkable! 💻✨</h4>
+###
+
+<h3 align="left">My journey into the tech world started in 9th grade when I first discovered how software and games are created. That moment sparked a passion in me, and I knew I wanted to pursue this field and achieve something remarkable! 💻✨</h3>
 
 ###
 
@@ -23,20 +22,15 @@
 
 ###
 
-🎓 BCA Graduate from University of Lucknow<br><br>‎‍💼 Checkout my works @ [Satvik Sharma's Portfolio](https://satvik-sharma.vercel.app)
-<br><br>🏆 Smart India Hackathon 2022 @ Finalist<br><br>💼 Former Executive @ Cogniferentials Consultancy Private Limited<br><br>🏆 Top 9.58% Coder @ Naukri Code 360<br><br>🎯 Aspiring to create intuitive experiences and scalable systems<br><br>📧 Contact me @ sharmasatvik43@gmail.com
+<p align="left">🎓 BCA Graduate from University of Lucknow<br><br>‎‍💼 Checkout my works @ <br><br>🏆 Smart India Hackathon 2022 @ Finalist<br><br>💼 Former Executive @ Cogniferentials Consultancy Private Limited<br><br>🏆 Top 9.58% Coder @ Naukri Code 360<br><br>🎯 Aspiring to create intuitive experiences and scalable systems<br><br>📧 Contact me @ sharmasatvik43@gmail.com</p>
 
 ###
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sudo-Satvik&theme=dark&type=png)]
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudo-Satvik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-Satvik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sudo-Satvik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-[![An image of @sharmasatvik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharmasatvik)](https://holopin.io/@sharmasatvik)
 
 ###
 
@@ -116,7 +110,7 @@
 
 ###
 
-<h4 align="left">Cloud Computing and Hosting</h4>
+<h4 align="left">Cloud Platforms and Hosting</h4>
 
 ###
 
@@ -199,6 +193,7 @@
   <a href="https://x.com/tw_satan_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
