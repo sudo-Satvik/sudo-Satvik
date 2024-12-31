@@ -1,6 +1,6 @@
 <img src="cover.png" alt="cover" style="width: 100%;"/>
 
-<h1 align="center">Swagatam 🙏 in my GitHub Universe 🚀</h1>
+<h1 align="center">Su'Swagatam 🙏 in my GitHub Universe 🚀</h1>
 
 ###
 
