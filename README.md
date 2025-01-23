@@ -31,8 +31,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudo-Satvik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-Satvik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats-tau-inky.vercel.app?user=sudo-Satvik&theme=radical&hide_border=true&border_radius=4.6&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
-<img src="https://streak-stats.demolab.com/?user=sudo-Satvik&theme=dar" />
 
 ###
 
