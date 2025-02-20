@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">My journey into the tech world started in 9th grade when I first discovered how software and games are created. That moment sparked a passion in me, and I knew I wanted to pursue this field and achieve something remarkable! 💻✨</h3>
+<h3 align="left">My journey into the tech world started in 9th grade when I first discovered how software and games are created. That moment sparked a passion in me, and I knew I wanted to pursue this field and achieve something remarkable!💻✨</h3>
 
 ###
 
