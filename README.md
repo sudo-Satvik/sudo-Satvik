@@ -39,8 +39,6 @@
 [![An image of @sharmasatvik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sharmasatvik)](https://holopin.io/@sharmasatvik)
 
 ###
-[![GitHub Streak](https://github-readme-streak-stats-tau-inky.vercel.app?user=sudo-Satvik)](https://git.io/streak-stats)
-###
 
 <h2 align="left">🛠️ Tech Toolbox</h2>
 
