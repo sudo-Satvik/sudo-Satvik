@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">💼 SDE @ Infinite Locus Private Limited<br><br>🎓 BCA Graduate from University of Lucknow<br><br>‎‍💼 Checkout my works @ <a href="https://satviksharma.in/">satviksharma.in</a><br><br>🏆 Smart India Hackathon 2022 @ Finalist<br><br>💼 Former Executive @ Cogniferentials Consultancy Private Limited<br><br>🏆 Top 9.58% Coder @ Naukri Code 360<br><br>🎯 Aspiring to create intuitive experiences and scalable systems<br><br>📧 Contact me @ <a href="mailto:sharmasatvik43@gmail.com">sharmasatvik43@gmail.com</a><br><br>✍️ I oftenly writes blogs at <a href="https://satvik-sharma.hashnode.dev/">satvik-sharma.hashnode.dev</a></p>
+<p align="left">💼 SDE @ Infinite Locus Private Limited<br><br>🎓 BCA Graduate from University of Lucknow<br><br>‎‍💼 Checkout my works @ <a href="https://satviksharma.in/">satviksharma.in</a><br><br>🏆 Smart India Hackathon 2022 @ Finalist<br><br>💼 Former Executive @ Cogniferentials Consultancy Private Limited<br><br>🏆 Top 9.58% Coder @ Naukri Code 360<br><br>🎯 Aspiring to create intuitive experiences and scalable systems<br><br>📧 Contact me @ <a href="mailto:sharmasatvik43@gmail.com">sharmasatvik43@gmail.com</a><br><br>✍️ I oftenly writes blogs at <a href="https://satviksharma.in/blog">satviksharma.in/blog</a></p>
 
 ###
 
@@ -172,8 +172,6 @@
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
 ###
