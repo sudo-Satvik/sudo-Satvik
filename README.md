@@ -1,4 +1,4 @@
-<img src="cover.png" alt="cover" style="width: 100%;"/>
+<img src="github_new_cover.png" alt="cover" style="width: 100%;"/>
 
 <h1 align="center">Welcome 🙏 in my GitHub Universe 🚀</h1>
 
